@@ -1,4 +1,3 @@
-# odin-recipes
-Odin Recipes - First project
+Marie's Webpages
 
-A recipes website for cilantro haters, where the cilantro is banned from all recipes.
+Contains links to all of Marie's projects created throughout The Odin Project's Curriculum
