@@ -1,3 +1,3 @@
-Marie's Webpages
+Marie Collecchia - Portfolio
 
-Contains links to all of Marie's projects created throughout The Odin Project's Curriculum
+Contains links to Marie's web development projects (mostly The Odin Project's assignments)
