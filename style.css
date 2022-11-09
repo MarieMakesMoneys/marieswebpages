@@ -71,8 +71,13 @@ header {
     font-size: 1.3rem;
 }
 
-.card>div {
+.description {
     margin: .5rem 0;
+}
+
+.code {
+    font-style: italic;
+    color: #546A7B;
 }
 
 footer {
